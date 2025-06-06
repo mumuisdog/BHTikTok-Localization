@@ -24,7 +24,7 @@
 // Copy Options
 "Copy Music Link" = "Скопіювати посилання на музику";
 "Copy Video link" = "Скопіювати посилання на відео";
-"Copy Decription" = "Скопіювати опис";
+"Copy Description" = "Скопіювати опис";
 "Copy bio" = "Скопіювати біо профілю";
 
 // Error Messages
@@ -218,7 +218,7 @@
 "Configure Advanced Comment Settings" = "Налаштовує розділ коментарів";  
 
 // Language Section  
-"Select App Language" = "Обрати мову додатку";
+"Select App Language" = "Выберите язык";
 
 "Enable Region Changing" = "Увімкнути зміну регіону";  
 "Live Button Action" = "Дія кнопки LIVE";
